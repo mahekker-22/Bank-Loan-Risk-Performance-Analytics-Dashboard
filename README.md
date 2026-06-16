@@ -78,15 +78,3 @@ Lending activities show a sharp upward scaling trend towards the final quarter o
 * **Power BI Desktop:** Star-schema data modeling, dynamic dashboard composition, and multi-page interactive UI layout.
 * **Advanced Power Query (M Language):** Extracted, cleaned, and structured raw CSV sheets; formatted dates (`ISSUE_DATE`, `LAST_PAYMENT_DATE`), standardized structural string records (`EMP_LENGTH`), and handled currency data parsing.
 * **DAX (Data Analysis Expressions):** Engineered optimized dynamic metrics including Running Totals, Month-over-Month % variances, conditional grouping flags, and weighted average portfolio yields.
-
----
-
-## 📁 Repository Directory Structure
-```text
-├── data/
-│   └── financial_loan.csv               # Cleaned structured source data
-├── dashboard/
-│   └── Bank Loan Analytics Dashboard.pbix # Master Power BI Desktop File
-├── documentation/
-│   └── Bank Loan Analytics Dashboard.pdf  # Static reporting print snapshot
-└── README.md                            # Detailed repository catalog documentation
