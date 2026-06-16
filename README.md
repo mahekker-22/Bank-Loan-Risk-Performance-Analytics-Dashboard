@@ -6,12 +6,12 @@ This repository houses a comprehensive **Power BI Business Intelligence solution
 Instead of navigating static reports, users can download the `.pbix` file inside the `dashboard/` folder to explore full cross-filtering functionality, dynamic tooltips, and custom DAX measures.
 
 ---
-<img width="1912" height="978" alt="image" src="https://github.com/user-attachments/assets/fd0de96f-5349-425a-81c6-16c521cdc3aa" />
-
 ## 📋 Project Disclaimers & Attribution
 * **Portfolio Purpose Only:** Developed strictly as a non-commercial portfolio piece to showcase data modeling, business intelligence, and DAX proficiency in Power BI.
 * **Data Transparency:** All transaction volumes, values, and demographics are synthetic or masked for simulation purposes. They do not represent real-time financial or operational metrics of any live enterprise.
 * **Trademark Attribution:** Any brand assets or banking visuals used are properties of their respective owners. They are included solely for UI design aesthetics to replicate a realistic corporate environment. No affiliation, sponsorship, or endorsement is implied; all rights belong to the respective trademark owners.
+
+<img width="1912" height="978" alt="image" src="https://github.com/user-attachments/assets/fd0de96f-5349-425a-81c6-16c521cdc3aa" />
 
 ---
 
